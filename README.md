@@ -1,4 +1,4 @@
-A PLP Acade,y assignments where we were required to:
+A PLP Academy assignments where we were required to:
 1. Create an empty list called my_list.
 2. Append the following elements to my_list: 10, 20, 30, 40.
 3. Insert the value 15 at the second position in the list.
